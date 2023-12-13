@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">projekAkhir</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="login">Login</string>
+    <string name="password">\"\"</string>
+    <string name="username" />
+    <string name="register" />
+    <string name="forgot_password" />
+    <string name="title_activity_home">Home</string>
+
+</resources>

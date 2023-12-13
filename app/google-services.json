@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "625986329343",
+    "firebase_url": "https://fir-ppb-f963c-default-rtdb.firebaseio.com",
+    "project_id": "fir-ppb-f963c",
+    "storage_bucket": "fir-ppb-f963c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625986329343:android:beb79936a22928acd84aca",
+        "android_client_info": {
+          "package_name": "com.bulam.projekakhir"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625986329343-kebldd0npapuh4rmh31e0ie59r5ajo0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625986329343-5k14mj4oiap3j7fl6jion933fg4l1oa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625986329343:android:b3c2abb495bd7558d84aca",
+        "android_client_info": {
+          "package_name": "com.nullpointer.blogcompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625986329343-kebldd0npapuh4rmh31e0ie59r5ajo0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625986329343-5k14mj4oiap3j7fl6jion933fg4l1oa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625986329343:android:d705d6713d11d2bed84aca",
+        "android_client_info": {
+          "package_name": "id.sch.sman1pangkah.sptos.mazan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625986329343-kebldd0npapuh4rmh31e0ie59r5ajo0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUevbCUEw24jYzW_IOl4KgfaZhNeMAIKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625986329343-5k14mj4oiap3j7fl6jion933fg4l1oa1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
