@@ -1,0 +1,45 @@
+data class Opinion(
+    val image: String,
+    val title: String,
+    val author: String,
+    val description: String,
+    val comment: String
+)
+
+class OpinionManager {
+    private val opinions: MutableList<Opinion> = mutableListOf()
+
+    fun addOpinion(opinion: Opinion) {
+        opinions.add(opinion)
+    }
+
+    fun getOpinions(): List<Opinion> {
+        return opinions
+    }
+}
+
+fun main() {
+    val opinionManager = OpinionManager()
+
+    // Example usage
+    val newOpinion = Opinion(
+        image = "image_url",
+        title = "Beautiful Landscape",
+        author = "John Doe",
+        description = "An amazing view of nature",
+        comment = "I love the colors in this picture!"
+    )
+
+    opinionManager.addOpinion(newOpinion)
+
+    val allOpinions = opinionManager.getOpinions()
+
+    for (opinion in allOpinions) {
+        println("Title: ${opinion.title}")
+        println("Author: ${opinion.author}")
+        println("Description: ${opinion.description}")
+        println("Comment: ${opinion.comment}")
+        println("Image: ${opinion.image}")
+        println("-------------")
+    }
+}
